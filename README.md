@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# GitHub Portfolio React PWA
+
+>  Create a PWA that has reusable React components and styling using Create React App and styled-components. The application will use data fetched from the public GitHub API.
 
 In the project directory, you can run:
 
